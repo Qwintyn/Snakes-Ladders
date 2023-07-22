@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /**
  * This is a PlayLadderAndSnake class in the main class that will allow the user to play the snakes & ladder game.
+ * It will begin by deciding which player will start the game.
  */
 public class PlayLadderAndSnake {
     /**
