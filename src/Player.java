@@ -12,6 +12,7 @@ public class Player {
     public Player() {
         this.currentPosition = 0;
         this.name = "";
+        
     }
 
     /**
