@@ -7,10 +7,10 @@ import java.util.Random;
  * @version 1.0
  */
 public class LadderAndSnake {
-
-    Player[] positionOfPlayer; // declaring an array of objects of type Player, used to store the position of
-                               // players on the board.
-    private int players; // declaring a variable players to store the number of players in the game.
+    // declaring an array of objects of type Player, used to store the position of players on the board.
+    Player[] positionOfPlayer; 
+    // declaring a variable players to store the number of players in the game.
+    private int players; 
     private int numAttempts;
     // delcaring two objects of type player
     Player p1;
