@@ -11,6 +11,7 @@ public class LadderAndSnake {
     Player[] positionOfPlayer; 
     // declaring a variable players to store the number of players in the game.
     private int players; 
+    // declaring a variable to keep track of the number of attempts each player makes.
     private int numAttempts;
     // delcaring two objects of type player
     Player p1;
