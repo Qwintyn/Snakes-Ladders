@@ -57,6 +57,7 @@ public class LadderAndSnake {
         if (playerPos == 100) {
             return 100;
         }
+        
         int row = playerPos / 10; // cal. the row number of the player's position by dividing the player's
                                   // position by 10.
         int col = playerPos % 10 - 1; // subtrating 1 because the board is 0-index, so the first
